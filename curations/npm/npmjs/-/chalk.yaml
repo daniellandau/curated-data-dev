@@ -8,3 +8,5 @@ revisions:
     described:
       sourceLocation:
         url: 'https://github.com/chalk/chalk-test'
+    licensed:
+      declared: MITu
