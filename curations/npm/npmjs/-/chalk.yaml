@@ -7,4 +7,7 @@ revisions:
   2.3.1:
     described:
       sourceLocation:
-        url: 'https://github.com/chalk/chalk-test'
+        provider: github
+        revision: foobar
+        type: git
+        url: 'https://github.com/chalk/chalk-test/commit/foobar'
